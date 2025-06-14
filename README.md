@@ -34,6 +34,35 @@ This project uses machine learning algorithms to predict house prices based on v
 - seaborn
 - scikit-learn
 - jupyter
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/RAVINDRAN-S/Linear-Regression-Project.git
+cd house-price-prediction
+```
+### 2. Set Up Environment
+Create a virtual environment (recommended):
+
+```bash
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+### 3.Install dependencies:
+
+```bash
+
+pip install -r requirements.txt
+```
+### 4. Launch Notebook
+```bash
+
+jupyter notebook
+```
+Open House Price Prediction.ipynb in your browser and run the cells.
+
 
 ## Sample Results
 - RMSE: ~21,000
